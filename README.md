@@ -1,17 +1,17 @@
-# Cultura_ConectadaCC
-Ofrecer información en tiempo real sobre exposiciones y eventos.
+# ByteBites
+Ofrecer información en tiempo real sobre recetas.
 
 
 
 ## PRIMEROS PASOS
 
-Cracion de una pagina web que nos muestre por pantalla diferntes obras de arte por su cultura.
+Cracion de una pagina web que nos muestre por diferentes criterios de búsqueda recetas
 
 ## LLAMADAS A API
 
-Realizaremos llamadas a una base de datos API, para que nos devuelva los siguientes dato:
-Nombre de la obra, autor, categoria, fecha, cultura e imagen.
+Realizaremos llamadas a una base de datos API, para que nos devuelva los siguientes datos:
+Nombre de la receta, tipo de Comida, tipo de dieta, alergias, países e imagen.
 
-## UNA PAGINA DE FEEDBACK
+## RECOMENDACIONES
 
-Pagina de feedback y ardenar obras por likes de los lectores.
+Recomendaciones
