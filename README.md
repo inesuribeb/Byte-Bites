@@ -55,6 +55,7 @@ Síguenos en GitHub para más proyectos y actualizaciones:
 - [Ines Uribe](https://github.com/inesuribeb)  
 - [Jon Latxiondo](https://github.com/Izorrai)
 
+---
 
 # Byte Bites 🍽️ 
 
