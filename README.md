@@ -27,7 +27,7 @@ El diseño del proyecto es **minimalista** y visualmente atractivo, enfocado en 
 ## 💡 Ver el Proyecto
 
 Puedes ver el proyecto en vivo aquí:
-https://inesuribeb.github.io/Byte-Bites/
+[Byte Bites on GitHub Pages](https://inesuribeb.github.io/Byte-Bites/)
 
 ## 📥 Instalación
 
