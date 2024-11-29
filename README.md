@@ -47,6 +47,8 @@ Para ver el proyecto en tu entorno local:
 ## 📄 Licencia
 Este proyecto no cuenta con licencia.
 
-## ✨ Autor
-Creado por Ines Uribe y Jon Latxiondo.
-Síguenos en GitHub para más proyectos y actualizaciones.
+## ✨ Autores
+Creado por **Ines Uribe** y **Jon Latxiondo**.  
+Síguenos en GitHub para más proyectos y actualizaciones:  
+- [Ines Uribe](https://github.com/inesuribeb)  
+- [Jon Latxiondo](https://github.com/Izorrai)
