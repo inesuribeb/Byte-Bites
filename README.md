@@ -1,4 +1,6 @@
-# Byte Bites 🍽️
+# Byte Bites 🍽️ 
+
+## Español
 
 **Byte Bites** es un proyecto web que permite explorar y encontrar recetas de manera fácil y rápida. Los usuarios pueden buscar recetas de tres maneras distintas: mediante un formulario, a través de recomendaciones personalizadas o utilizando una query introducida por el usuario. El proyecto se conecta a la API de **Edamame** para obtener una variedad de recetas deliciosas.
 
@@ -54,7 +56,9 @@ Síguenos en GitHub para más proyectos y actualizaciones:
 - [Jon Latxiondo](https://github.com/Izorrai)
 
 
-# Byte Bites 🍽️ (English Version)
+# Byte Bites 🍽️ 
+
+## English
 
 **Byte Bites** is a web project that allows users to easily explore and find recipes. Users can search for recipes in three different ways: through a form, personalized recommendations, or by entering a query. The project connects to the **Edamame API** to fetch a variety of delicious recipes.
 
