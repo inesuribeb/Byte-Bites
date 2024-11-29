@@ -35,11 +35,11 @@ Para ver el proyecto en tu entorno local:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/inesuribeb/ByteBites.git
+   git clone git@github.com:inesuribeb/Byte-Bites.git
    
 2. Navega al directorio del proyecto:
    ```bash
-   cd ByteBites
+   cd Byte-Bites
 
 3. Abre el archivo index.html en tu navegador para ver el sitio en acción.
 
@@ -92,11 +92,11 @@ To view the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/inesuribeb/ByteBites.git
+   git clone git@github.com:inesuribeb/Byte-Bites.git
 
 2. Navigate to the project directory:
    ```bash
-   cd ByteBites
+   cd Byte-Bites
 
 3. Open the index.html file in your browser to see the site in action.
 
