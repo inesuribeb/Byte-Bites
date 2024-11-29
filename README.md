@@ -6,7 +6,7 @@
 
 ## 🌟 Características
 
-- **Búsqueda por formulario**: Permite a los usuarios buscar recetas basadas en ingredientes.
+- **Búsqueda por formulario**: Permite a los usuarios encontrar recetas personalizadas respondiendo preguntas sobre dietas, preferencias, restricciones calóricas, tipo de comida y más.
 - **Recomendaciones**: Se generan recomendaciones de recetas basadas en criterios predeterminados.
 - **Búsqueda por query**: Los usuarios pueden introducir su propia query para buscar recetas específicas.
 - **Conexión con la API de Edamame**: Recibe y muestra recetas en tiempo real desde la API de Edamame.
@@ -65,7 +65,7 @@ Síguenos en GitHub para más proyectos y actualizaciones:
 
 ## 🌟 Features
 
-- **Form-based search**: Allows users to search for recipes based on ingredients.
+- **Form-based search**: Allows users to find personalized recipes by answering questions about diets, preferences, calorie restrictions, type of meal, and more.
 - **Recommendations**: Generates recipe recommendations based on predefined criteria.
 - **Query search**: Users can enter their own query to search for specific recipes.
 - **Connection to the Edamame API**: Retrieves and displays recipes in real-time from the Edamame API.
