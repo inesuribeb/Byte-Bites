@@ -8,6 +8,8 @@
 - **Recomendaciones**: Se generan recomendaciones de recetas basadas en criterios predeterminados.
 - **Búsqueda por query**: Los usuarios pueden introducir su propia query para buscar recetas específicas.
 - **Conexión con la API de Edamame**: Recibe y muestra recetas en tiempo real desde la API de Edamame.
+- **Adaptabilidad Móvil (En Desarrollo)**: Actualmente, el proyecto está siendo adaptado para ofrecer una experiencia óptima en dispositivos móviles. La versión móvil está en proceso de implementación.
+
 
 ## 🎨 Diseño
 
@@ -24,6 +26,7 @@ El diseño del proyecto es **minimalista** y visualmente atractivo, enfocado en 
 
 Puedes ver el proyecto en vivo aquí:  
 https://inesuribeb.github.io/Byte-Bites/
+
 ## 📥 Instalación
 
 Para ver el proyecto en tu entorno local:
